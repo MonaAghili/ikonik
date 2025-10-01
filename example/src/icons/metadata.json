@@ -1,0 +1,26 @@
+{
+  "count": 3,
+  "icons": [
+    {
+      "name": "Heart",
+      "file": "Heart",
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "Home",
+      "file": "Home",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "Star",
+      "file": "Star",
+      "tags": [
+        "star"
+      ]
+    }
+  ]
+}
