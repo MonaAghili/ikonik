@@ -709,7 +709,6 @@ MIT
 
 - [SVGO](https://github.com/svg/svgo) - SVG optimization
 - [SVGR](https://react-svgr.com/) - SVG to React transformer
-- Inspired by [Lucide](https://lucide.dev/) and [Heroicons](https://heroicons.com/)
 
 ## Links
 
